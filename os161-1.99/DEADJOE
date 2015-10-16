@@ -1,0 +1,40 @@
+
+*** These modified files were found in JOE when it aborted on Fri Jun 26 11:29:56 2015
+*** JOE was aborted by UNIX signal 15
+
+*** File '.git/COMMIT_EDITMSG'
+Revert "A1 completion"
+
+This reverts commit 07c24002420b5ba5e826ebf071cc54f3b7a81035.
+
+Conflicts:
+
+	kern/synchprobs/catmouse_synch.c
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: y655li <y655li@student.cs.uwaterloo.ca>
+#
+# Not currently on any branch.
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   kern/synchprobs/catmouse_synch.c
+#
+
+*** File '(Unnamed)'
+n
+
+*** File '(Unnamed)'
+.git/COMMIT_EDITMSG
+.git/COMMIT_EDITMSG
+* Build Log *
+.git/COMMIT_EDITMSG
+* Build Log *
+.git/COMMIT_EDITMSG
+abort
+.git/COMMIT_EDITMSG
+.git/COMMIT_EDITMSG
+.git/COMMIT_EDITMSG
+.git/COMMIT_EDITMSG
